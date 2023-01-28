@@ -1,5 +1,7 @@
 # Byte me!
 
+[codewars](https://www.codewars.com/kata/636f26f52aae8fcf3fa35819)
+
 If I were to ask you the size of `"hello"`, what would you say?
 
 Wait, let me rephrase the question
