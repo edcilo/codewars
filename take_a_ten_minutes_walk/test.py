@@ -2,7 +2,7 @@ import unittest
 from is_valid_walk import is_valid_walk
 
 
-class TestMultiply(unittest.TestCase):
+class TestIsValidWalk(unittest.TestCase):
     def test_check_direction(self):
         self.assertTrue(
             is_valid_walk(['n','s','n','s','n','s','n','s','n','s']),
